@@ -18,13 +18,25 @@ Use Kickshaw for adding pipe menu.
 
 | Menu Name | Description | Inspiration/Credit |
 | --------- | ----------- | ------------------ |
-| battery.py| Shows Thermal and Battery Info | To be updated |
-| dates.py | Shows Date along with a calender for the month | To be updated |
-| keybindings.py | Shows all the keybindings for openbox,click to edit | To be updated |
-| processes.py | Shows all the processes runnning,can send signals and see ram usage and more | To be updated |
-| sysinfo.py | Shows all the system info(Ram , Theme,Load etc) | To be updated |
-| wallpapers.py | Shows all the wallpaper in a directory , click to apply | To be updated |
-| gtk-bookmarks.py | Shows all the gtk bookmarks , click to open in file manager | To be updated |
+| battery.py| Shows Thermal and Battery Info | [OpenBox Website](http://openbox.org/wiki/Openbox:Pipemenus:battery) |
+| dates.py | Shows Date along with a calender for the month | [Openbox Website](http://openbox.org/wiki/Openbox:Pipemenus:Date_Menu)|
+| keybindings.py | Shows all the keybindings for openbox,click to edit | [Joe Bloggs](https://github.com/vapniks/ob-pipe-menus)|
+| processes.py | Shows all the processes runnning,can send signals and see ram usage and more | [Vlad George](http://openbox.org/wiki/Openbox:Pipemenus:processes-python)|
+| sysinfo.py | Shows all the system info(Ram , Theme,Load etc) | [dbbolton](https://github.com/dbbolton/pipemenus/raw/master/ob-sysinfo.pl)|
+| wallpapers.py | Shows all the wallpaper in a directory , click to apply | [Mikde Hokenson](http://www.gozer.org/programs/c/c/ob3_wall.c) and [ArchCraft](https://github.com/archcraft-os/archcraft) |
+| gtk-bookmarks.py | Shows all the gtk bookmarks , click to open in file manager | [Mulberry](http://openbox.org/wiki/Openbox:Pipemenus:gtk-bookmarks)|
+| places.py| Acts like a file manager allowing you to navigate non-hidden directory | To be updated |
+
+
+## Photos
+
+![Battery](pics/battery.png)
+![Dates](pics/dates.png)
+![Keybindings](pics/keybindings.png)
+![Sysinfo](pics/sysinfo.png)
+![Wallpaper](pics/wallpapers.png)
+![Gtk-Bookmarks](pics/gtk-bookmarks.png)
+![Places](pics/places.png)
 
 ## Contributing
 Anybody is welcome to contribute to the project.
