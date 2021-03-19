@@ -30,12 +30,19 @@ Use Kickshaw for adding pipe menu.
 
 ## Photos
 
+### Battery
 ![Battery](pics/battery.png)
+### Dates
 ![Dates](pics/dates.png)
+### Keybindings
 ![Keybindings](pics/keybindings.png)
+### Sysinfo
 ![Sysinfo](pics/sysinfo.png)
+### Wallpapers
 ![Wallpaper](pics/wallpapers.png)
+### Gtk-Bookmarks
 ![Gtk-Bookmarks](pics/gtk-bookmarks.png)
+### Places
 ![Places](pics/places.png)
 
 ## Contributing
